@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page_login" translatable="false">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="email_text">อีเมล</string>
+    <string name="password_text">รหัสผ่าน</string>
+    <string name="button_login">ลงชื่อเข้าใช้</string>
+    <string name="not_account_text">ยังไม่มีบัญชีผู้ใช้งาน? สมัครเลย</string>
+    <string name="remember_check">จำรหัสผ่าน</string>
+</resources>

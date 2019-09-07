@@ -1,0 +1,10 @@
+<resources>
+    <!--    <string name="app_name">AndroidSplashHW2</string>-->
+    <string name="my_todo" translatable="false">My ToDo</string>
+    <string name="page_login">Login To Your Account</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="button_login">Login</string>
+    <string name="not_account_text">Don\'t have an account? Register</string>
+    <string name="remember_check">Remember</string>
+</resources>
